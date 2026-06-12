@@ -4,7 +4,7 @@ BepInEx Mods for [KIKI](https://store.steampowered.com/app/2142680/Kiki/).
 
 ## Prerequisites
 1. Install [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest).
-2. Download the ZIP files for the mods you want to install.
+2. Download the [ZIP files](https://github.com/ulgrude/KIKI-Mods/releases/tag/1.0.0) for the mods you want to install.
 3. Unpack the ZIP at the game's root.
 5. It's all done!
 
